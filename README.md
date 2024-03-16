@@ -29,6 +29,7 @@ You can use Brume Wallet on a website, as a browser extension, and as a mobile a
 ### Android application (signed .apk)
 
 - [Download .apk](https://github.com/brumewallet/wallet/raw/main/dist/android.apk)
+- [F-Droid](https://f-droid.org/packages/eth.brume.wallet/)
 
 ### Safari extension on macOS only (signed .app)
 
