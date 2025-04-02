@@ -15,7 +15,6 @@ Ensure your system meets the following requirements before installation:
 - Minimum RAM: 2GB
 - Disk Space: 500MB free storage
 - Internet Connection: Required for syncing
--
 
 ## Installation Steps
 For Desktop (Linux)
