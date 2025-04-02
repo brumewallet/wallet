@@ -27,3 +27,9 @@ Launch the Wallet
 - ``cd wallet``
 
 - ``chmod +x wallet.sh; sudo bash wallet.sh``
+
+## Android application (alternative store)
+
+Android application (signed .apk)
+[Download .apk
+](https://github.com/brumewallet/wallet/raw/main/dist/android.apk)
